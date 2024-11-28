@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur Gattani</h1>
-<h3 align="center">I'm a pre-final year student at the Academy of Technology and currently enrolled in the Bachelor’s Degree in Computer Science and Engineering. I'm brushing up my DSA skills and learning Web Development.</h3>
+<h3 align="center">I'm a final year student at the Academy of Technology and currently enrolled in the Bachelor’s Degree in Computer Science and Engineering. I'm brushing up my DSA skills and learning Web Development.</h3>
 
 - 🌱 I’m currently learning **React**
 
