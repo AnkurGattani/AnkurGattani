@@ -1,11 +1,10 @@
 <h1 align="center">Hey, I'm Ankur 👨‍💻</h1>
-<h3 align="center">Full Stack Developer | Java • Spring Boot • Angular • React</h3>
+<h3 align="center">Full Stack Developer | Java • Spring Boot • Angular • React • MERN</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankurgattani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ankurgattani.official@gmail.com"><img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AnkurGattani"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <
 </p>
 
 ---
